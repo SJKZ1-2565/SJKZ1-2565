@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings.
 
 **Taratorn Kuakorboon (SJKZ1,Torn)**  *Nerd, Thai, Gamer*
 - Working on Minecraft modding.
