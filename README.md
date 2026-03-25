@@ -23,13 +23,6 @@ I believe progress is visible when you leave your old code behind without deleti
 ## 🛠 Tech & Tools
 
 Most of my work revolves around **Java**, especially in modding environments. I also explore other languages and tools when the problem demands it, such as C++, Python, or scripting for automation. Git is my main tool for tracking progress, mistakes, and growth over time.
-
----
-
-Learning, failing, refactoring, and improving are all part of the process. This GitHub profile is not just a showcase, but a timeline of how I think, learn, and evolve as a developer.
-
-If you’re reading this, feel free to explore, learn from it, or even point out things that can be improved. I’m always open to discussion and growth.
-
 ---
 
 Thanks for stopping by.  
