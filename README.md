@@ -1,12 +1,7 @@
-# 👋 Greetings, Traveler
+# 👋 Greetings
 
 Welcome to my corner of GitHub.
-
 My name is **Taratorn Kuakorboon**, also known as **SJKZ1** or **Torn**.  
-I am a Computer Science student at Prince of Songkla University who spends an unreasonable amount of time turning ideas into code — and occasionally turning code into bugs before fixing them again.
-
-This repository is part of my journey as a developer, where curiosity, creativity, and problem-solving collide. I enjoy learning by building real things, breaking them apart, and understanding how they work from the inside.
-
 ---
 
 ## 🧱 About Me
@@ -30,10 +25,6 @@ I believe progress is visible when you leave your old code behind without deleti
 Most of my work revolves around **Java**, especially in modding environments. I also explore other languages and tools when the problem demands it, such as C++, Python, or scripting for automation. Git is my main tool for tracking progress, mistakes, and growth over time.
 
 ---
-
-## 🚀 Philosophy
-
-I don’t aim to write perfect code — I aim to write **better code than yesterday**.
 
 Learning, failing, refactoring, and improving are all part of the process. This GitHub profile is not just a showcase, but a timeline of how I think, learn, and evolve as a developer.
 
