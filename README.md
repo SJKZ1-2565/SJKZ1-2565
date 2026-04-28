@@ -1,29 +1,13 @@
-# 👋 Greetings
+# Hi, I'm Taratorn
 
-Welcome to my corner of GitHub.
-My name is **Taratorn Kuakorboon**, also known as **SJKZ1** or **Torn**.  
----
+I'm Taratorn Kuakorboon, also known as **SJKZ1** or **Torn**.
 
-## 🧱 About Me
+I mostly work on Minecraft mod development with **Fabric** and **Java**. I'm especially interested in gameplay mechanics, world interaction, entities, and server-side logic.
 
-I am deeply interested in **Minecraft mod development**, especially systems related to gameplay mechanics, world interaction, entities, and server-side logic. I enjoy working with Fabric and Java, designing features that feel natural to the game while still adding something new and interesting.
+Outside of Minecraft, I'm studying Computer Science and learning more about algorithms, data structures, and software design. I try to write code that is readable, maintainable, and easy to come back to later.
 
-Beyond Minecraft, I study **Computer Science**, which means I deal with algorithms, data structures, and software design — but I also care a lot about clean code, readability, and maintainability. For me, good code should be understandable by humans first, machines second.
+This GitHub is where I keep my projects, experiments, utilities, and things I build while learning. Some repositories are complete, some are prototypes, and some are just here because I wanted to understand how something works.
 
----
+Most of my work uses Java, but I also use C++, Python, Git, and scripting when needed.
 
-## 💡 What You’ll Find Here
-
-This repository may contain experiments, utilities, learning projects, or full implementations depending on the phase I’m in. Some parts are polished, some are prototypes, and some exist purely because I wanted to understand *why something works the way it does*.
-
-I believe progress is visible when you leave your old code behind without deleting it.
-
----
-
-## 🛠 Tech & Tools
-
-Most of my work revolves around **Java**, especially in modding environments. I also explore other languages and tools when the problem demands it, such as C++, Python, or scripting for automation. Git is my main tool for tracking progress, mistakes, and growth over time.
----
-
-Thanks for stopping by.  
-Have fun exploring, and happy coding ✨
+Thanks for visiting.
